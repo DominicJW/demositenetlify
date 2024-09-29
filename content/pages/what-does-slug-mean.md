@@ -17,12 +17,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
